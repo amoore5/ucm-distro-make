@@ -10,9 +10,9 @@ projects[drupal][type] = core
 projects[drupal][version] = "7"
 
 ; Add UC Merced profile to the full distribution build.
-projects[cms-profile-ucm][type] = profile
-projects[cms-profile-ucm][version] = 1.x-dev
-projects[cms-profile-ucm][download][type] = git
-projects[cms-profile-ucm][download][url] = git@bardstale.ucmerced.edu/cms-profile-ucm.git
-projects[cms-profile-ucm][download][branch] = master
-projects[cms-profile-ucm][directory_name] = ucm
+projects[ucm][type] = profile
+projects[ucm][version] = 1.x-dev
+projects[ucm][download][type] = git
+projects[ucm][download][url] = git@bardstale.ucmerced.edu:cms-profile-ucm.git
+projects[ucm][download][branch] = master
+projects[ucm][directory_name] = ucm
