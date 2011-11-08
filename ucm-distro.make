@@ -13,6 +13,6 @@ projects[drupal][version] = "7"
 projects[ucm][type] = profile
 projects[ucm][version] = 1.x-dev
 projects[ucm][download][type] = git
-projects[ucm][download][url] = git://github.com/amoore5/UC-Merced-Make-Files.git
+projects[ucm][download][url] = git://github.com/amoore5/ucm-cms-profile-ucm.git
 projects[ucm][download][branch] = master
 projects[ucm][directory_name] = ucm
