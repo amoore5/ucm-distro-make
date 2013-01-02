@@ -7,7 +7,7 @@ api = 2
 core = 7.x
 
 projects[drupal][type] = core
-projects[drupal][version] = "7.15"
+projects[drupal][version] = "7.18"
 
 ; Add UC Merced profile to the full distribution build.
 projects[campuscms_profile][type] = profile
